@@ -9,5 +9,7 @@ Veja bem não irei aqui demostrar todas as funções e atributos da linguaguem P
 Iremos tratar desses três casos primordiais:
 
 1-Limites
+
 2-Derivadas
+
 3-Integrais
