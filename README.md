@@ -1,4 +1,5 @@
-Cálculo 1 com Python
+# Cálculo 1 com Python
+
 Olá, sou universitario e sei muito bem como é a vida para estudantes de exatas que precisam passar pelos cursos de Cálculo e pensando nisso eu venho através dessa introdução mostrar para vocês que se pode aprender Cálculo 1 com algoritmos simples em python, com esses exemplos você podera conferir seus resultados e assim passar nessa materia que é líder em reprovações.
 
 Se você quer passar nessa matéria deve ter uma conta google e entrar em google colab clique aqui .
